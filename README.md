@@ -1,5 +1,5 @@
 # MeasurementPriceorUnmeasurementPrice
-Sometimes you need to adding your product with sizes, but sometimes not. Woocommerce price php file contains in templates/loop directory. You should show your price sizeable or not.
+Sometimes you need to adding your product with sizes, but sometimes not. Woocommerce price php file contains in woocommerce/templates/loop/ directory. You should show your price sizeable or not.
 
 
     Product With Size              |       Product Without Size
