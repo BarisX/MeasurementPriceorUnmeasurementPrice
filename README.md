@@ -7,4 +7,4 @@ Sometimes you need to adding your product with sizes, but sometimes not. Woocomm
     - 9cm x 7cm                            - No sizes
     - 250 $                                - 250 $
     - 0.09 x 0.07 x 250                    - No Calculation
-    - Price: 1,575 $                       - Price: 250 $
+    - Price: 1,60 $ (rounded)              - Price: 250 $
